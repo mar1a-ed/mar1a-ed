@@ -4,11 +4,19 @@
 - 😎 Ser humano em constante evolução
 
 
+
+
 ## Tecnologias Principais 👩‍💻
 - Linguagens: JAVA, Kotlin, Python, C
 - Frameworks: Springboot
 
+
+
+
+
 ## Meios de Comunicação ✉️
+- E-mail: medu.correa29@gmail.com
+
 
 <div>
   <a href="https://beacons.ai/mar1a-ed">
