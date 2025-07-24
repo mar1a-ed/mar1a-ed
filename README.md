@@ -1,6 +1,14 @@
 ## Olá! Eu sou a Maria Eduarda 👋
 - 🔭 Atualmente curso Sistemas de Informação na UFU
 - 🌱 Estou estudando JAVA e Python
+- 😎 Ser humano em constante evolução
+
+
+## Tecnologias Principais 👩‍💻
+- Linguagens: JAVA, Kotlin, Python, C
+- Frameworks: Springboot
+
+## Meios de Comunicação ✉️
 
 <div>
   <a href="https://beacons.ai/mar1a-ed">
