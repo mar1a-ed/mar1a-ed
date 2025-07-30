@@ -1,10 +1,8 @@
 ## Olá, eu sou a Maria Eduarda 👋
 
-<p align="center">
-🎓 Estudante de Sistemas de Informação na UFU<br>
-💻 Estudando JAVA e Python<br>
-🚀 Em constante evolução e aprendizado!
-</p>
+- 🎓 Estudante de Sistemas de Informação na UFU<br>
+- 💻 Estudando JAVA e Python<br>
+- 🚀 Em constante evolução e aprendizado!
 
 ---
 
@@ -23,8 +21,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mar1a-ed&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar1a-ed&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mar1a-ed&show_icons=true&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mar1a-ed&layout=compact&theme=dracula"/>
 </div>
 
 ---
@@ -34,7 +32,6 @@
 - 🌱 Atualmente focada em melhorar minhas habilidades de programação.
 - 🎯 Objetivo: Trabalhar com desenvolvimento backend.
 - 😄 Fun fact: Sempre disposta a aprender algo novo!
-- 
 ---
 
 ⭐ Obrigada por visitar meu perfil!
