@@ -1,7 +1,7 @@
 ## Olá, eu sou a Maria Eduarda 👋
 
 - 🎓 Estudante de Sistemas de Informação na UFU<br>
-- 💻 Estudando JAVA e Python<br>
+- 💻 Estudando Java e Spring<br>
 - 🚀 Em constante evolução e aprendizado!
 
 ---
