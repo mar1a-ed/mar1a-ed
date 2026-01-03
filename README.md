@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias Principais
 
-- 💻 **Linguagens:** JAVA, Kotlin, Python, C  
+- 💻 **Linguagens:** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
 - ⚙️ **Frameworks:** Spring Boot
 
 ---
@@ -16,16 +16,6 @@
 ## 📬 Contato
 
 - ✉️ E-mail: [medu.correa29@gmail.com](mailto:medu.correa29@gmail.com)
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-
-</div>
 
 ---
 
