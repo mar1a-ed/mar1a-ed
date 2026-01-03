@@ -17,7 +17,9 @@
 
 ## 📬 Contato
 
-- ✉️ E-mail: [medu.correa29@gmail.com](mailto:medu.correa29@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar1a-ed4)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maria_ecds/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medu.correa29@gmail.com)
 
 ---
 
