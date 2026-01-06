@@ -46,7 +46,7 @@
 ## ✨ Sobre Mim
 
 - 🌱 Atualmente focada em melhorar minhas habilidades de programação.
-- 🎯 Objetivo: Trabalhar com desenvolvimento backend.
+- 🎯 Objetivo: Trabalhar com desenvolvimento back-end.
 - 😄 Fun fact: Sempre disposta a aprender algo novo!
 ---
 
