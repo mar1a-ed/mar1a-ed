@@ -1,12 +1,11 @@
-## Olá, eu sou a Maria Eduarda 👋
+## Maria Eduarda Corrêa da Silva 👩‍💻
 
-- 🎓 Estudante de Sistemas de Informação na UFU<br>
-- 💻 Estudando Java e Spring<br>
+- 🎓 Estudante de Sistemas de Informação na UFU (4º Período) <br>
+- 💻 Estudando Java, Spring e JUnit <br>
 - 🚀 Em constante evolução e aprendizado!
 
 ---
 
-## 🛠️ Tecnologias Principais
 <h2>🛠️ Tecnologias Principais</h2>
 
 <p align="left">
@@ -32,8 +31,7 @@
 ## ✨ Sobre Mim
 
 - 🌱 Atualmente focada em melhorar minhas habilidades de programação.
-- 🎯 Objetivo: Trabalhar com desenvolvimento back-end.
-- 😄 Fun fact: Sempre disposta a aprender algo novo!
+- 🎯 Objetivo: Trabalhar com desenvolvimento backend.
 ---
 
 ⭐ Obrigada por visitar meu perfil!
