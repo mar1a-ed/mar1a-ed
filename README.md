@@ -1,7 +1,7 @@
 ## Maria Eduarda Corrêa da Silva 👩‍💻
 
 - 🎓 Estudante de Sistemas de Informação na UFU (4º Período) <br>
-- 💻 Estudando Java, Spring e JUnit <br>
+- 💻 Desenvolvimento BackEnd
 - 🚀 Em constante evolução e aprendizado!
 
 ---
@@ -28,12 +28,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maria_ecds/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medu.correa29@gmail.com)
 
----
-
-## ✨ Sobre Mim
-
-- 🌱 Atualmente focada em melhorar minhas habilidades de programação.
-- 🎯 Objetivo: Trabalhar com desenvolvimento backend.
 ---
 
 ⭐ Obrigada por visitar meu perfil!
