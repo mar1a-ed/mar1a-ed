@@ -1,8 +1,8 @@
 ## Maria Eduarda Corrêa da Silva 👩‍💻
 
+```Desenvolvimento Back-End```
+
 - 🎓 Estudante de Sistemas de Informação na UFU (4º Período) <br>
-- 💻 Desenvolvimento BackEnd
-- 🚀 Em constante evolução e aprendizado!
 
 ---
 
