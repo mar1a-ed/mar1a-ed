@@ -26,9 +26,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maria_ecds/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:medu.correa29@gmail.com)
 
----
-
-⭐ Obrigada por visitar meu perfil!
 
 
 
