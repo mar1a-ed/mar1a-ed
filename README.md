@@ -2,7 +2,7 @@
 
 ```Developer```
 
-- 🎓 Estudante de Sistemas de Informação na UFU (4º Período) <br>
+- 🎓 Estudante de Sistemas de Informação na UFU (5º Período) <br>
 
 ---
 
